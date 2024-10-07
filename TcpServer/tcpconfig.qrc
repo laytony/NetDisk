@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tcpserver.config</file>
+        <file>all_usr.ico</file>
+    </qresource>
+</RCC>

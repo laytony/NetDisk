@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wjj.ico</file>
+        <file>regular.ico</file>
+        <file>root.ico</file>
+        <file>fri.ico</file>
+        <file>netdisc.ico</file>
+        <file>fri_me.ico</file>
+        <file>me.ico</file>
+        <file>all_usr.ico</file>
+        <file>all_single_usr.ico</file>
+        <file>ICO.ico</file>
+        <file>wjj_list.ico</file>
+        <file>connection.ico</file>
+        <file>disconnected.ico</file>
+        <file>BG.bmp</file>
+        <file>FILEBG.bmp</file>
+        <file>FILEINFO.bmp</file>
+        <file>MMSG.bmp</file>
+        <file>OPBG.bmp</file>
+        <file>UOPBG.bmp</file>
+        <file>SILIAO.png</file>
+        <file>PCHAT.bmp</file>
+        <file>EXTB.ico</file>
+        <file>YSB.ico</file>
+        <file>WDTB.ico</file>
+        <file>PDFTB.ico</file>
+        <file>EXETB.ico</file>
+        <file>TPTB.ico</file>
+        <file>SPTB.ico</file>
+        <file>YYTB.ico</file>
+        <file>SHAREF.jpg</file>
+        <file>wzq.ico</file>
+    </qresource>
+</RCC>

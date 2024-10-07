@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tcpcserver.config</file>
+    </qresource>
+</RCC>
